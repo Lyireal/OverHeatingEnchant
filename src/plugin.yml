@@ -1,0 +1,11 @@
+main: me.bob.overheating.overheating
+name: overheating
+author: Ducko
+version: 1.0
+description: OverHeating the ores.
+api-version: 1.16
+
+commands:
+  CustomOverheating:
+   description: Fucking work
+   usage: /<command>
